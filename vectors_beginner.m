@@ -20,3 +20,7 @@ a([1 2]) # prints [3, 5]
 a(1) = -2;
 a
 
+# colon operator
+
+c = [1 : 5];
+c
