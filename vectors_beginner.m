@@ -24,3 +24,7 @@ a
 
 c = [1 : 5];
 c
+
+# colon operator with step
+d = [5 : -1: 1]
+
